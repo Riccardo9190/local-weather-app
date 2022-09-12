@@ -31,5 +31,4 @@ To run you need to have an API key from [OpenWeatherMap](https://openweathermap.
 
 ## Project Images
 
-### - Index 
 <img src="https://github.com/Riccardo9190/local-weather-app/blob/master/public/readme_images/weather.png" /> 
