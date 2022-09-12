@@ -8,7 +8,7 @@ A local weather app built with React and Typescript consuming 'OpenWeather' API 
 - Typescript
 - Axios
 
-### How To Run
+### To Run Locally
 
 To run you need to have an API key from [OpenWeatherMap](https://openweathermap.org/). Once you get it, wait 15 minutes for the api key to activate. After the api key is activated, you can continue the installation procedure.
 
