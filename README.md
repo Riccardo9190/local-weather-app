@@ -20,7 +20,8 @@ To run you need to have an API key from [OpenWeatherMap](https://openweathermap.
 
 - Create a file named '.env' on the root of the project with ```touch .env```
 
-- Set the environment variable with your OpenWeather API key: ```echo "REACT_APP_OPEN_WEATHER_KEY=yourkeyvalue" > .env```
+- Set the environment variable with your OpenWeather API key: 
+  ```echo "REACT_APP_OPEN_WEATHER_KEY=yourkeyvalue" > .env```
 
 - Run your app with ```npm start``` 
 
