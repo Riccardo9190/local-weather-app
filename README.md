@@ -25,7 +25,7 @@ To run you need to have an API key from [OpenWeatherMap](https://openweathermap.
   ```echo "REACT_APP_OPEN_WEATHER_KEY=yourkeyvalue" > .env```
 
 
-- Run your app with ```npm start``` 
+- Run the app with ```npm start``` 
 
 <hr/>
 
