@@ -23,3 +23,10 @@ To run you need to have an API key from [OpenWeatherMap](https://openweathermap.
 - Set the environment variable with your OpenWeather API key: ```echo "REACT_APP_OPEN_WEATHER_KEY=yourkeyvalue" > .env```
 
 - Run your app with ```npm start``` 
+
+<hr/>
+
+## Project Images
+
+### - Index 
+<img src="https://github.com/Riccardo9190/local-weather-app/blob/master/public/readme_images/weather.png" /> 
