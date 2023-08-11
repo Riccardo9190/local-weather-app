@@ -1,11 +1,10 @@
 # Local Weather App
 
-A local weather app built with React and TypeScript consuming the 'OpenWeather' API using Axios.
+A local weather app built with React consuming the OpenWeather API using Axios.
 
 ### Technologies Used:
 
 - React
-- Typescript
 - Axios
 
 ### To Run Locally
@@ -18,12 +17,11 @@ To run you need to have an API key from [OpenWeatherMap](https://openweathermap.
 
 - Install all dependencies with ```npm install```
 
-- Create a file named '.env' on the root of the project with ```touch .env```
-
 - Set the environment variable with your OpenWeather API key: 
   
-  ```echo "REACT_APP_OPEN_WEATHER_KEY=yourkeyvalue" > .env```
-
+```shell
+echo "REACT_APP_OPEN_WEATHER_KEY=yourkeyvalue" > .env
+```
 
 - Run the app with ```npm start``` 
 
