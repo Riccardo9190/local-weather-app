@@ -1,6 +1,6 @@
 # Local Weather App
 
-A local weather app built with React and Typescript consuming 'OpenWeather' API by Axios.
+A local weather app built with React and TypeScript consuming the 'OpenWeather' API using Axios.
 
 ### Technologies Used:
 
